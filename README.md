@@ -23,3 +23,4 @@ Also did a lot of reading & researching about web dev in general.
 ** Today's Progress**: Going to do some more fcc, see if I can get up to one of the projects. Really want to make something useful.
 Also planning to do something else - learn Markdown. Yip, I don't know markdown.
 
+**XX nope - didn't work out that way. My brain seems to be slush today. Maybe tomorrow will be better.... **
