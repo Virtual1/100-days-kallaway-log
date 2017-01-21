@@ -13,3 +13,13 @@ The log of my 100 Days Of Code
 
 ** Time spent:** about 2.5 hours. I want to track this more accurately - will check out apps/addons tomorrow.
 
+### Day 2: Janruary 20. Friday
+
+** Today's Progress**: Did up to section 64 of the first course of fcc.
+Also did a lot of reading & researching about web dev in general.
+
+### Day 3: January 21. Saturday
+
+** Today's Progress**: Going to do some more fcc, see if I can get up to one of the projects. Really want to make something useful.
+Also planning to do something else - learn Markdown. Yip, I don't know markdown.
+
